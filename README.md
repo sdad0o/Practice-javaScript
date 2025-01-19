@@ -20,7 +20,13 @@ This repository is intended for beginners and intermediate learners who want to 
 Here’s a list of the projects included in this repository:
 
 1. **Guess my number**  
-   A simple game that help you to improve your DOM skills.
+   A simple game that help you to improve your DOM Manipulation skills.
+
+2. **Modal**  
+   Manipulation with modal to learn about the keyboard events and how manipulate the modal.
+
+3. **Pig Game**  
+   In this project we will applay all what we learn befor.
 
 ## Getting Started
 
