@@ -28,6 +28,9 @@ Here’s a list of the projects included in this repository:
 3. **Pig Game**  
    In this project we will applay all what we learn befor.
 
+4. **Behind the Scenes**  
+   How JavaScript Works Behind the Scenes.
+
 ## Getting Started
 
 To get started with these projects, follow these steps:
