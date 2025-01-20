@@ -31,6 +31,9 @@ Here’s a list of the projects included in this repository:
 4. **Behind the Scenes**  
    How JavaScript Works Behind the Scenes.
 
+5. **Data Structures Operators**  
+   Destructuring Arrays & objects , Data Structures, Modern Operators and Strings.
+
 ## Getting Started
 
 To get started with these projects, follow these steps:
