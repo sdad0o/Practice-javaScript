@@ -34,6 +34,9 @@ Here’s a list of the projects included in this repository:
 5. **Data Structures Operators**  
    Destructuring Arrays & objects , Data Structures, Modern Operators and Strings.
 
+6. **Closer look at Functions**  
+   Add examples demonstrating JavaScript function concepts, including default parameters, callbacks, closures, and method binding.
+
 ## Getting Started
 
 To get started with these projects, follow these steps:
